@@ -1,0 +1,8 @@
+numpy
+pandas
+kagglehub
+matplotlib
+scikit-learn
+fastapi
+uvicorn
+streamlit
