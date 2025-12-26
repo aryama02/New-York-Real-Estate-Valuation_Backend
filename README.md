@@ -140,4 +140,4 @@ The backend utilizes a serialized `.pkl` file (`house_price_model.pkl`) containi
 *Aspiring AI Engineer*
 
 ---
-*Developed by Aryan.*
+
